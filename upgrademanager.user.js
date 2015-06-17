@@ -87,7 +87,7 @@ function startAutoUpgradeManager() {
 		}, // Armor Piercing Round
 		{
 			id: 1,
-			level: 10
+			level: 0
 		}, // Auto-fire Cannon
 	];
 
